@@ -1,0 +1,12 @@
+name: hellolife-intro
+title: hellolife-intro
+username:
+account: hellolife
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1544386
+bundleId: 2629798
+url: https://hellolife.shinyapps.io/hellolife-intro/
+when: 1575191131.99797
+asMultiple: FALSE
+asStatic: FALSE
